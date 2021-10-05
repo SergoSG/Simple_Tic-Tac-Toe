@@ -1,0 +1,149 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe/task/build/
+/Simple Tic-Tac-Toe/task/out/
+/Simple Tic-Tac-Toe/task/out/production/classes/
+/Simple Tic-Tac-Toe/task/out/test/classes/
+/Topics/Array/Initializing an array of integers/out/
+/Topics/Array/Initializing an array of integers/out/production/classes/
+/Topics/Array/Theory/out/
+/Topics/Array/Theory/out/production/classes/
+/Topics/Branching statements/Bus tour/out/
+/Topics/Branching statements/Bus tour/out/production/classes/
+/Topics/Branching statements/Even or odd/out/
+/Topics/Branching statements/Even or odd/out/production/classes/
+/Topics/Branching statements/The integer barrier/out/
+/Topics/Branching statements/The integer barrier/out/production/classes/
+/Topics/Branching statements/The sequence/out/
+/Topics/Branching statements/The sequence/out/production/classes/
+/Topics/Branching statements/Theory/out/
+/Topics/Branching statements/Theory/out/production/classes/
+/Topics/Calling a method/Area of parallelogram/out/
+/Topics/Calling a method/Area of parallelogram/out/production/classes/
+/Topics/Calling a method/Call me awesome/out/
+/Topics/Calling a method/Call me awesome/out/production/classes/
+/Topics/Calling a method/Theory/out/
+/Topics/Calling a method/Theory/out/production/classes/
+/Topics/Comments/Printing only the longest line/out/
+/Topics/Comments/Printing only the longest line/out/production/classes/
+/Topics/Comments/Theory/out/
+/Topics/Comments/Theory/out/production/classes/
+/Topics/Comments/Three numbers/out/
+/Topics/Comments/Three numbers/out/production/classes/
+/Topics/Comments/Uncomment a line/out/
+/Topics/Comments/Uncomment a line/out/production/classes/
+/Topics/Conditional statement/Check a number is positive/out/
+/Topics/Conditional statement/Check a number is positive/out/production/classes/
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Chocolate/out/production/classes/
+/Topics/Conditional statement/Healthy sleep/out/
+/Topics/Conditional statement/Healthy sleep/out/production/classes/
+/Topics/Conditional statement/Interval/out/
+/Topics/Conditional statement/Interval/out/production/classes/
+/Topics/Conditional statement/Leap year/out/
+/Topics/Conditional statement/Leap year/out/production/classes/
+/Topics/Conditional statement/The army of units/out/
+/Topics/Conditional statement/The army of units/out/production/classes/
+/Topics/Conditional statement/Theory/out/
+/Topics/Conditional statement/Theory/out/production/classes/
+/Topics/Errors in programs/Fix the program/out/
+/Topics/Errors in programs/Fix the program/out/production/classes/
+/Topics/Integer types and operations/Desks/out/
+/Topics/Integer types and operations/Desks/out/production/classes/
+/Topics/Integer types and operations/Difference of times/out/
+/Topics/Integer types and operations/Difference of times/out/production/classes/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/production/classes/
+/Topics/Integer types and operations/Reversing/out/
+/Topics/Integer types and operations/Reversing/out/production/classes/
+/Topics/Integer types and operations/Snail/out/
+/Topics/Integer types and operations/Snail/out/production/classes/
+/Topics/Integer types and operations/Tens digit/out/
+/Topics/Integer types and operations/Tens digit/out/production/classes/
+/Topics/Integer types and operations/Theory/build/
+/Topics/Integer types and operations/Theory/out/
+/Topics/Integer types and operations/Theory/out/production/classes/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Iterating over arrays/The minimum value of an array/out/
+/Topics/Iterating over arrays/The minimum value of an array/out/production/classes/
+/Topics/Iterating over arrays/The sum of array elements/out/
+/Topics/Iterating over arrays/The sum of array elements/out/production/classes/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Iterating over arrays/Theory/out/production/classes/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/production/classes/
+/Topics/Multidimensional array/The star figure/out/
+/Topics/Multidimensional array/The star figure/out/production/classes/
+/Topics/Multidimensional array/Theory/out/
+/Topics/Multidimensional array/Theory/out/production/classes/
+/Topics/Overview of the basic program/Hello, Java/out/
+/Topics/Overview of the basic program/Hello, Java/out/production/classes/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Overview of the basic program/Theory/out/production/classes/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/Printing data/Theory/out/
+/Topics/Printing data/Theory/out/production/classes/
+/Topics/Relational operators/Boys in a sport class/out/
+/Topics/Relational operators/Boys in a sport class/out/production/classes/
+/Topics/Relational operators/Check the given numbers are different/out/
+/Topics/Relational operators/Check the given numbers are different/out/production/classes/
+/Topics/Relational operators/Check the sum/out/
+/Topics/Relational operators/Check the sum/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
+/Topics/Relational operators/Check the value (1)/out/
+/Topics/Relational operators/Check the value (1)/out/production/classes/
+/Topics/Relational operators/Exactly one parameter is positive/out/
+/Topics/Relational operators/Exactly one parameter is positive/out/production/classes/
+/Topics/Relational operators/Groundhogs at a party/out/
+/Topics/Relational operators/Groundhogs at a party/out/production/classes/
+/Topics/Relational operators/Is between/out/
+/Topics/Relational operators/Is between/out/production/classes/
+/Topics/Relational operators/Theory/out/
+/Topics/Relational operators/Theory/out/production/classes/
+/Topics/Scanning the input/Guest list of a hotel/out/
+/Topics/Scanning the input/Guest list of a hotel/out/production/classes/
+/Topics/Scanning the input/Hiring a chef/out/
+/Topics/Scanning the input/Hiring a chef/out/production/classes/
+/Topics/Scanning the input/Print strings in the reverse order/out/
+/Topics/Scanning the input/Print strings in the reverse order/out/production/classes/
+/Topics/Scanning the input/Printing strings in the same order/out/
+/Topics/Scanning the input/Printing strings in the same order/out/production/classes/
+/Topics/Scanning the input/Theory/out/
+/Topics/Scanning the input/Theory/out/production/classes/
+/Topics/String/Replacing 'a' with 'b'/out/
+/Topics/String/Replacing 'a' with 'b'/out/production/classes/
+/Topics/String/Theory/out/
+/Topics/String/Theory/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
+/Topics/Switch statement/Floor-space of the room/out/
+/Topics/Switch statement/Floor-space of the room/out/production/classes/
+/Topics/Switch statement/Shape/out/
+/Topics/Switch statement/Shape/out/production/classes/
+/Topics/The for-loop/Fizz Buzz/out/
+/Topics/The for-loop/Fizz Buzz/out/production/classes/
+/Topics/The for-loop/Maximum element divisible by four/out/
+/Topics/The for-loop/Maximum element divisible by four/out/production/classes/
+/Topics/The for-loop/Numbers divisible by six/out/
+/Topics/The for-loop/Numbers divisible by six/out/production/classes/
+/Topics/The for-loop/The product of numbers from a to b/out/
+/Topics/The for-loop/The product of numbers from a to b/out/production/classes/
+/Topics/The for-loop/The roots of an equation/out/
+/Topics/The for-loop/The roots of an equation/out/production/classes/
+/Topics/The for-loop/Theory/out/
+/Topics/The for-loop/Theory/out/production/classes/
+/Topics/The while and do-while loops/The length of the sequence/out/
+/Topics/The while and do-while loops/The length of the sequence/out/production/classes/
+/Topics/The while and do-while loops/The sequence/out/
+/Topics/The while and do-while loops/The sequence/out/production/classes/
+/Topics/The while and do-while loops/The smallest value/out/
+/Topics/The while and do-while loops/The smallest value/out/production/classes/
+/Topics/The while and do-while loops/The sum of elements/out/
+/Topics/The while and do-while loops/The sum of elements/out/production/classes/
+/Topics/The while and do-while loops/Theory/out/
+/Topics/The while and do-while loops/Theory/out/production/classes/
